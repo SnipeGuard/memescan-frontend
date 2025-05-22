@@ -11,6 +11,6 @@ React-based web dashboard for analyzing memecoin risk.
 ```bash
 npm install
 
-# Create .env file from .env.example:
+## Create .env file from .env.example:
 ```bash
 cp .env.example .env
